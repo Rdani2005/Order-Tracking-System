@@ -113,5 +113,5 @@ Contributions are welcome! Please:
 3. Submit a pull request explaining your changes.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Rdani2005/uber-direct/blob/main/LICENSE) file for more details
 
